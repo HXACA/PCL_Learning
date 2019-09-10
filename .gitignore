@@ -1,0 +1,16 @@
+/Range2PointCloud/data/
+/ipch/
+*.d
+*.obj
+*.o
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.swp
+*.pcd
+*.ply
+*.dat
+*.VC.db
+*.icph
+Range2PointCloud.VC.db
